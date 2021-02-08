@@ -1,0 +1,17 @@
+C:\Users\steez\Documents\RedArbor\bin\Debug\netcoreapp3.1\RedArbor.exe
+C:\Users\steez\Documents\RedArbor\bin\Debug\netcoreapp3.1\RedArbor.deps.json
+C:\Users\steez\Documents\RedArbor\bin\Debug\netcoreapp3.1\RedArbor.runtimeconfig.json
+C:\Users\steez\Documents\RedArbor\bin\Debug\netcoreapp3.1\RedArbor.runtimeconfig.dev.json
+C:\Users\steez\Documents\RedArbor\bin\Debug\netcoreapp3.1\RedArbor.dll
+C:\Users\steez\Documents\RedArbor\bin\Debug\netcoreapp3.1\RedArbor.pdb
+C:\Users\steez\Documents\RedArbor\obj\Debug\netcoreapp3.1\RedArbor.csprojAssemblyReference.cache
+C:\Users\steez\Documents\RedArbor\obj\Debug\netcoreapp3.1\RedArbor.AssemblyInfoInputs.cache
+C:\Users\steez\Documents\RedArbor\obj\Debug\netcoreapp3.1\RedArbor.AssemblyInfo.cs
+C:\Users\steez\Documents\RedArbor\obj\Debug\netcoreapp3.1\RedArbor.csproj.CoreCompileInputs.cache
+C:\Users\steez\Documents\RedArbor\obj\Debug\netcoreapp3.1\RedArbor.dll
+C:\Users\steez\Documents\RedArbor\obj\Debug\netcoreapp3.1\RedArbor.pdb
+C:\Users\steez\Documents\RedArbor\obj\Debug\netcoreapp3.1\RedArbor.genruntimeconfig.cache
+C:\Users\steez\Documents\RedArbor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\steez\Documents\RedArbor\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\steez\Documents\RedArbor\obj\Debug\netcoreapp3.1\RedArbor.csproj.CopyComplete
+C:\Users\steez\Documents\RedArbor\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
